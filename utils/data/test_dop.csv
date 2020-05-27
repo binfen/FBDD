@@ -1,0 +1,7 @@
+SMILES,logP,tPSA,MW,SweetSpot
+c1cc(ccc1C(=O)CCCN2CCC(CC2)(c3ccc(cc3)Cl)O)F,4.43,40.54,375.1,No
+COc1cc(ccc1OCC2CN(CCCO2)Cc3ccc(cc3)Br)Cl,4.78,30.93,439.1,No
+COc1cc(ccc1OC[C@@H]2CN(CCO2)Cc3ccc(cc3)Cl)Cl,4.28,30.93,381.1,No
+CCOc1ccc(cc1OCC2CN(CCO2)Cc3ccc(cc3)Cl)Cl,4.67,30.93,395.1,No
+COc1cc(ccc1OCC2CN(CCO2)Cc3ccc(cc3)Cl)Cl,4.28,30.93,381.1,No
+COc1ccc(cc1NCC2CN(CCO2)Cc3ccc(cc3)Cl)Cl,4.31,33.73,380.1,No
